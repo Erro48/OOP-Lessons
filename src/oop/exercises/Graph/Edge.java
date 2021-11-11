@@ -1,4 +1,4 @@
-package oop.classe.gencollection11;
+package oop.exercises.graph;
 
 public class Edge<N> {
 	

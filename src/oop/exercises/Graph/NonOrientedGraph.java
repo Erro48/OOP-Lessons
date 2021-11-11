@@ -1,4 +1,4 @@
-package oop.classe.gencollection11;
+package oop.exercises.graph;
 
 import java.util.HashSet;
 import java.util.List;
